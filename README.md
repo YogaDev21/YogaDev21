@@ -1,8 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on yoga_dharma<br>
-🌱 I’m currently learning Laravel, Next, React Native, Electron, Prisma, Baas<br>
-📫 How to reach me: yogadev2006@gmail.com<br>😄 Pronouns: He/Him<br>
-⚡ Fun fact: I like reading manga & playing game
+🔭 I’m currently working on <b>yoga_dharma</b><br>
+🌱 I’m currently learning <b>Laravel, Next, React Native, Electron, Prisma, Baas</b><br>
+📫 How to reach me: <b>yogadev2006@gmail.com</b><br>
+😄 Pronouns: <b>He/Him</b><br>
+⚡ Fun fact: <b>I like reading manga & playing game</b>
 
 
 ## 🌐 Socials:
@@ -50,8 +51,7 @@
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YogaDev21&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=YogaDev21&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=YogaDev21&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YogaDev21&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
